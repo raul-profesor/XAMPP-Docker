@@ -1,16 +1,18 @@
-# Clonar repositorio
+# Intrucciones
+
+1.Clonar repositorio
 
 https://github.com/raul-profesor/XAMPP-Docker.git
 
-# Levantar los contenedores
+2.Levantar los contenedores
 
 docker compose up -d
 
-# Acceder a phpmyadmin en el navegador
+3.Acceder a phpmyadmin en el navegador
 
 `http://localhost:8000`
 
-# Acceder a aplicación en PHP en el navegador
+4.Acceder a aplicación en PHP en el navegador
 
 `http://localhost:8001`
 
