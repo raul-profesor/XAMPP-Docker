@@ -2,14 +2,14 @@
 
 1.Clonar repositorio
 
-  git clone `https://github.com/raul-profesor/XAMPP-Docker.git`
+  `git clone https://github.com/raul-profesor/XAMPP-Docker.git`
 
 2.Levantar los contenedores
 
   ```
   cd XAMPP-Docker
-  
-  docker compose up -d`
+
+  docker compose up -d
   ```
 
 3.Acceder a phpmyadmin en el navegador
